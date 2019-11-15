@@ -1,0 +1,14 @@
+.input-box {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid grey;
+    padding: 50px;
+}
+
+.input-box div {
+    margin: 10px;
+}
+
+.input-button {
+    width: 80px;
+}
